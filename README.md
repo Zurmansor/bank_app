@@ -1,4 +1,4 @@
-# Messenger
+# Bank web application
 
 ## 1. Install.
 Helix Bank uses MySql.
