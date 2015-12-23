@@ -3,9 +3,9 @@
 ## 1. Install.
 Helix Bank uses MySql.
 
-Config file is here: https://github.com/Zurmansor/Messenger/blob/master/src/main/resources/jdbc.properties
+Config file is here: https://github.com/Zurmansor/bank_app/blob/master/src/main/resources/jdbc.properties
 
-MySql dump is here: https://github.com/Zurmansor/Messenger/blob/master/src/main/resources/dump.sql
+MySql dump is here: https://github.com/Zurmansor/bank_app/blob/master/src/main/resources/dump.sql
 
 ## 2. Used technologies.
 
